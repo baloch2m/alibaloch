@@ -1,0 +1,23 @@
+Documentation/design documents/ENEL 400 System Design.docx
+Documentation/design documents/ENEL 400 System Design v2.docx
+Documentation/design documents/ENEL 400 Conceptual Design.docx
+project/Objects/*
+project/Listings/*
+project/DebugConfig/*
+carCode/lab7.uvguix.M
+carCode/Listings/
+carCode/Objects/
+<<<<<<< HEAD
+carCode/DebugConfig/Target_1_STM32F100RB.dbgconf
+carCode/carCode2.uvguix.baloch2m
+=======
+project/project.uvguix.selin20m
+>>>>>>> cf8ae99fc1c37a1236ddc339c7d16a1c6ade7edf
+carCode/header/carTasks.h~RFfe2649.TMP
+*.TMP
+Documentation/design documents/~$EL 400 Conceptual Design Final.docx
+usercontrollerCode/usart.uvguix.selin20m
+carCode/carCode2.uvguix.selin20m
+New folder/usercontrollerCode/usercontrollerCode/rte/*
+*.o
+*.d
