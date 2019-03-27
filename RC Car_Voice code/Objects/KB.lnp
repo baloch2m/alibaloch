@@ -1,0 +1,12 @@
+--cpu Cortex-M3
+".\objects\clock.o"
+".\objects\io.o"
+".\objects\lcd.o"
+".\objects\main.o"
+".\objects\vr.o"
+".\objects\startup_stm32f10x_md_vl.o"
+".\objects\system_stm32f10x.o"
+--strict --scatter ".\Objects\KB.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\KB.map" -o .\Objects\KB.axf
