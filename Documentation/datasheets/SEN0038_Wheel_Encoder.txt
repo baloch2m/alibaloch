@@ -1,0 +1,8 @@
+SEN0038 Wheel Encoder website
+
+https://www.dfrobot.com/wiki/index.php/Wheel_Encoders_for_DFRobot_3PA_and_4WD_Rovers_(SKU:SEN0038)
+
+
+FIT0458 DC Geared motor and encoder
+
+https://www.dfrobot.com/wiki/index.php/Micro_DC_Motor_with_Encoder-SJ02_SKU:_FIT0458

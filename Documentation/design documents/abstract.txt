@@ -1,0 +1,1 @@
+A remote controlled car that is operated with alternative controls and assisted driving systems for users that are unable to use conventional controls. The user can drive the car using a gesture based control system that is wirelessly connected to the car. The car is equipped with assisted driving features that are able to avoid collisions and regulate speed. 
